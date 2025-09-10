@@ -1,0 +1,8 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+marshmallow
+Flask-marshmallow
+pymysql
+Flask-Cors
+marshmallow-sqlalchemy
